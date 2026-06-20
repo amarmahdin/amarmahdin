@@ -17,7 +17,7 @@ I'm a **Full-Stack Developer** based in Jakarta, Indonesia, passionate about bui
 I work across the entire stack — from crafting responsive interfaces with modern frontend frameworks to designing RESTful APIs and managing databases on the backend. I enjoy turning complex requirements into clean, scalable solutions and collaborating with teams to ship products that solve real problems.
 
 - 🔭 Currently focused on full-stack web development
-- 💻 Comfortable working with React, Vue, Node.js, and MySQL
+- 💻 Comfortable working with React, Vue, Node.js, TypeScript, Python, and MySQL
 - 🚀 Always exploring better ways to write efficient and maintainable code
 
 ---
@@ -25,7 +25,7 @@ I work across the entire stack — from crafting responsive interfaces with mode
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vue,tailwind,nodejs,express,mysql,flutter,git&perline=12" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,python,react,vue,tailwind,nodejs,express,mysql,flutter,git&perline=14" alt="Tech Stack" />
 </p>
 
 ---
@@ -35,7 +35,7 @@ I work across the entire stack — from crafting responsive interfaces with mode
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=amarmahdin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-streak-stats.demolab.com/?user=amarmahdin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="165" src="https://streak-stats.demolab.com/?user=amarmahdin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarmahdin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
@@ -48,7 +48,7 @@ I work across the entire stack — from crafting responsive interfaces with mode
 <div align="center">
 
 <a href="https://amarmahdin.github.io/Portofolio/" target="_blank">
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" width="40" alt="Portfolio" />
+  <img src="https://api.iconify.design/mdi:earth.svg?color=%2358A6FF" height="40" width="40" alt="Portfolio" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:amarmahdin01@gmail.com">
