@@ -4,9 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Building+Scalable+Web+Apps;React+%7C+Vue+%7C+Node.js)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-amarmahdin.github.io-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amarmahdin.github.io/Portofolio/)
-[![Email](https://img.shields.io/badge/Email-amarmahdin01@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amarmahdin01@gmail.com)
-[![Location](https://img.shields.io/badge/Jakarta,-Indonesia-2EA44F?style=for-the-badge&logo=google-maps&logoColor=white)]()
+📍 Jakarta, Indonesia
 
 </div>
 
@@ -14,24 +12,20 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const amar = {
-  role: "Full-Stack Developer",
-  location: "Jakarta, Indonesia",
-  focus: ["Web Applications", "Scalable Products", "High Performance"],
-  currentlyBuilding: "Digital products with modern tech stacks",
-  funFact: "I enjoy turning ideas into clean, working code ✨"
-};
-```
+I'm a **Full-Stack Developer** based in Jakarta, Indonesia, passionate about building end-to-end web applications that are fast, reliable, and easy to maintain.
 
-Full-Stack Developer with experience building web applications from frontend to backend. Passionate about developing **scalable, high-performance digital products** and collaborating in cross-functional teams to deliver real-world solutions.
+I work across the entire stack — from crafting responsive interfaces with modern frontend frameworks to designing RESTful APIs and managing databases on the backend. I enjoy turning complex requirements into clean, scalable solutions and collaborating with teams to ship products that solve real problems.
+
+- 🔭 Currently focused on full-stack web development
+- 💻 Comfortable working with React, Vue, Node.js, and MySQL
+- 🚀 Always exploring better ways to write efficient and maintainable code
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,vue,nodejs,express,flutter,tailwind,mysql,git&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vue,tailwind,nodejs,express,mysql,flutter,git&perline=12" alt="Tech Stack" />
 </p>
 
 ---
@@ -53,9 +47,13 @@ Full-Stack Developer with experience building web applications from frontend to 
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-amarmahdin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amarmahdin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://amarmahdin.github.io/Portofolio/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amarmahdin01@gmail.com)
+<a href="https://amarmahdin.github.io/Portofolio/" target="_blank">
+  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" width="40" alt="Portfolio" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:amarmahdin01@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" width="40" alt="Gmail" />
+</a>
 
 </div>
 
